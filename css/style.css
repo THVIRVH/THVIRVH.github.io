@@ -1,0 +1,23 @@
+
+<style>
+
+
+<style>
+  body {border: 1px solid red; }
+  </style>
+
+
+body {
+  text-align: center;
+	background-color: white;
+	color: #26C0C2;
+	font-size: 1em;
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+.button {
+    position: absolute;
+    top:50%;
+    background-color:#FF8C00;
+}
